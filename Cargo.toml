@@ -1,0 +1,7 @@
+[package]
+name = "rapid_rust"
+version = "0.1.0"
+authors = ["Sybren <sybren@sybrial.com>"]
+edition = "2018"
+
+[dependencies]
